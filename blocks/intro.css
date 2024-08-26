@@ -47,9 +47,9 @@
   height: 182px;
 }
 
-@media screen and (min-width: 1281px) {
+@media screen and (min-width: 1025px) {
   .intro {
-    margin: 90px 0 0 0;
+    margin: 90px 0 88px 0;
     width: 100%;
     align-items: center;
     justify-content: center;
@@ -57,19 +57,19 @@
 
   .intro__title {
     text-align: center;
-    width: 50%;
+    width: 60%;
   }
 
   .intro__text-phrase {
-    width: 50%;
+    width: 60%;
   }
 
   .intro__text-reference {
-    width: 50%;
+    width: 60%;
   }
 
   .intro__text-introduction {
-    width: 50%;
+    width: 60%;
   }
 }
 
