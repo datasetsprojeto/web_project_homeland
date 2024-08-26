@@ -49,9 +49,27 @@
 
 @media screen and (min-width: 1281px) {
   .intro {
-    margin: 90 auto;
-    width: 984px;
-    vertical-align: sub;
+    margin: 90px 0 0 0;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .intro__title {
+    text-align: center;
+    width: 50%;
+  }
+
+  .intro__text-phrase {
+    width: 50%;
+  }
+
+  .intro__text-reference {
+    width: 50%;
+  }
+
+  .intro__text-introduction {
+    width: 50%;
   }
 }
 
