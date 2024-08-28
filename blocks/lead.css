@@ -29,10 +29,12 @@
 }
 
 .lead__image {
+  max-width: 984px;
   width: 100%;
   object-fit: cover;
   margin: auto;
 }
+
 @media screen and (max-width: 1024px) and (min-width: 544px) {
   .lead__title {
     text-align: center;
