@@ -46,7 +46,7 @@
   background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
 }
 
-.place__frame__paragraph {
+.place__frame_paragraph {
   text-decoration: none;
   color: #ffffff;
   margin: 0;
@@ -64,7 +64,7 @@
   grid-area: author;
 }
 
-.place__website__url-heading {
+.place__website_url-heading {
   font-family: "Inter", sans-serif;
   font-size: 0.75rem;
   font-weight: 400;
@@ -75,7 +75,7 @@
   margin-bottom: 8px;
 }
 
-.place__website__artist {
+.place__website_artist {
   margin: 0;
   font-family: "Inter", sans-serif;
   font-size: 1.125rem;
@@ -108,7 +108,6 @@
 }
 
 .place__image:hover {
-  background: #00000080;
   opacity: 0.5;
 }
 
@@ -158,7 +157,7 @@
     width: 100%;
   }
 
-  .place__website__url-heading {
+  .place__website_url-heading {
     margin: 0;
     font-size: 0.75rem;
   }
@@ -216,7 +215,7 @@
     margin-bottom: 50px;
   }
 
-  .place__frame__paragraph {
+  .place__frame_paragraph {
     margin: 0;
     font-size: 0.875rem;
     line-height: 16.94px;
