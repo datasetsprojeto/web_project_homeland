@@ -1,9 +1,9 @@
-# Tripleten web_project_homeland
+# Tripleten web_project_homeland 2
 
-# Projeto 5 TripleTen
+# Projeto 6 TripleTen
 
-# Implementação de design responsivo
+# Implementação de design responsivo usando Grid e FlexBox e medidas responsivas.
 
-# Foi considerado um padrão de plataformas a ser apresentados, porem uma melhoria futura seria uma melhor adaptação entre as transições de plataformas, considerando a possibilidade de plataformas com dimenssionamentos diferentes.
+# Foi considerado a implmentação responsiva e outras medidas, verificando quebras bruscas, e assim implementando medidas intermediárias para trazer uma mudança mais suave entre diferentes plataformas.
 
 # https://datasetsprojeto.github.io/web_project_homeland/
