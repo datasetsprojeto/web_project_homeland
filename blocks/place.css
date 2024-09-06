@@ -201,11 +201,12 @@
   }
 
   .place__title {
-    margin: 0;
-    max-height: 70px;
+    margin: 0 auto;
     max-width: 288px;
+    width: 100%;
     font-size: 2rem;
     line-height: 35px;
+    text-align: left;
   }
 
   .place__image {
@@ -218,7 +219,7 @@
   }
 
   .place__frame {
-    margin: 0;
+    margin: 0 auto;
     width: 288px;
     height: 48px;
     margin-bottom: 50px;
@@ -231,7 +232,18 @@
   }
 
   .place__website {
+    margin: 0 auto;
     max-width: 288px;
+    width: 100%;
+  }
+
+  .place__website_url-heading {
+    text-align: left;
+  }
+
+  .place__website_artist {
+    margin-top: 8px;
+    text-align: left;
   }
 
   .place__content-text {
