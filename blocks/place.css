@@ -9,6 +9,7 @@
     "frame .";
   max-width: 984px;
   margin-bottom: 80px;
+  list-style-type: none;
 }
 
 .place__title {
@@ -52,7 +53,7 @@
 
 .place__frame_shadow {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
-  background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
+  background: linear-gradient(90deg, #0278fe 0%, #003a7b 100%);
 }
 
 .place__frame_paragraph {
@@ -124,7 +125,7 @@
   background: linear-gradient(
     90deg,
     rgba(2, 120, 254, 0.25) 0%,
-    rgba(0, 58, 123, 0.25) 99.98%
+    rgba(0, 58, 123, 0.25) 100%
   );
 }
 
@@ -169,6 +170,7 @@
   .place__website_url-heading {
     margin: 0;
     font-size: 0.75rem;
+    margin-bottom: 8px;
   }
 
   .place__content-text {
